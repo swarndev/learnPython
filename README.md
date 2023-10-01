@@ -1,1 +1,3 @@
-# My first git repo
+# Python Learning Repository
+
+Name: Swarnendu Roy
